@@ -4,4 +4,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bunreal&layout=compact&theme=graywhite)
 
-### Always try to do different things, be a different person.
+#### Always try to do different things, be a different person.
